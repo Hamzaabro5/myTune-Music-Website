@@ -128,3 +128,38 @@ ul{
     top: 400px;
     margin-top: -350px;
 }
+.about-music{
+    margin-top: 450px;
+    text-align: center;
+}
+.about-music p{
+    margin-top: 30px;
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: 300;
+}
+.about-btn{
+    margin: 40px 0px;
+    background-color: var(--purple300);
+    color: #fff;
+    padding: 15px 25px;
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
+}
+.video-section{
+    margin-top: 60px;
+    background-image: url(./assets/aditya-chinchure-ZhQCZjr9fHo-unsplash.jpg);
+    height: 70vh;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding-top: 200px;
+}
+.video-section p{
+    font-size: 14px;
+    margin-top: 25px;
+    font-weight: 400;
+}
