@@ -81,3 +81,50 @@ ul{
     font-size: 18px;
     word-spacing: 4px;
 }
+.music-section{
+    background-color: var(--purple500);
+    color: #fff;
+    text-align: center;
+    padding-top: 40px;
+}
+.music-container h1{ 
+    margin-bottom: 20px;
+    font-size: 36px;
+    font-weight: 400;
+}
+.music-container h2{ 
+    margin-bottom: 20px;
+    font-size: 28px;
+    font-weight: 400;
+}
+.music-container h3{ 
+    margin-top: 40px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.music-section-btn{
+    margin-top: 30px;
+    background-color: var(--red);
+    color: #fff;
+    padding: 15px 20px;
+    font-size: 18px;
+    border-radius: 30px;
+    border: none;
+    font-weight: 300;
+    cursor: pointer;
+    transition: 0.3s ease-in;
+}
+.music-section-btn:hover{
+    background-color: #000;
+    color: #fff;
+    transition: 0.3s ease-out;
+}
+.music-container p{ 
+    margin-top: 35px;
+    color: #f9f6ffa4;
+}
+.ipad-img{
+    position: relative;
+    top: 400px;
+    margin-top: -350px;
+}
