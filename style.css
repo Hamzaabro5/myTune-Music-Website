@@ -147,6 +147,9 @@ ul{
     border: none;
     cursor: pointer;
 }
+.about-btn:hover{
+    background-color: var(--purple600);
+}
 .video-section{
     margin-top: 60px;
     background-image: url(./assets/aditya-chinchure-ZhQCZjr9fHo-unsplash.jpg);
@@ -188,6 +191,9 @@ ul{
     border-radius: 25px;
     border: none;
     cursor: pointer;
+}
+.redeem-btn:hover{
+    background-color: var(--purple600);
 }
 .footer-section{
     background-color: var(--purple600);
